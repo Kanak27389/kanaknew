@@ -1,0 +1,6 @@
+{
+  "name": "IAIT Kaliabor - Icon Academy of Information Technology",
+  "description": "Official portal for Icon Academy of IT (IAIT), Kaliabor, Nagaon, Assam. Vocational IT courses, online admissions, student & certificate verification, and fee payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
